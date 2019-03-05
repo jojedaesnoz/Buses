@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BusFX.iml" filepath="$PROJECT_DIR$/BusFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bus/Bus.iml" filepath="$PROJECT_DIR$/Bus/Bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BusesTop.iml" filepath="$PROJECT_DIR$/BusesTop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DatosCompartidos/DatosCompartidos.iml" filepath="$PROJECT_DIR$/DatosCompartidos/DatosCompartidos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Marquesina/Marquesina.iml" filepath="$PROJECT_DIR$/Marquesina/Marquesina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servidor/Servidor.iml" filepath="$PROJECT_DIR$/Servidor/Servidor.iml" />
     </modules>
   </component>
 </project>
